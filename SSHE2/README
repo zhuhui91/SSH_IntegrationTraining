@@ -1,0 +1,9 @@
+mvn clean
+mvn compile
+mvn tomcat:run
+数据库登录名:root
+密码:""
+密码为空
+http://localhost:8080/SSHE2/
+http://localhost:8080/SSHE2/strust2Test!test.action
+http://localhost:8080/SSHE2/strust2Test!saveUser.action

@@ -1,0 +1,29 @@
+#contentTop{
+	height: 70px;
+	width: auto;
+}
+.divrow1{
+	margin-top:10px;
+}
+.texthead{
+	text-align: right;
+	margin-right: -10px;
+	width: 120px;
+}
+#redline{
+	height:30px;
+	margin-left: 0;
+    margin-right: auto; 
+}
+.img{
+	width:820px;
+}
+.show{
+	margin-left: 50px;
+    margin-right: auto; 
+	height:150px;
+	width:700px;
+    border:1px solid #ccc; 
+    overflow-y:auto; 
+    padding-bottom:10px;
+}

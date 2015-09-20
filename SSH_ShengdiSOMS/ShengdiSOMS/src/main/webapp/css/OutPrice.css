@@ -1,0 +1,55 @@
+#contentTop{
+	margin-top: 20px;
+	height: 70px;
+	width: auto;
+}
+.divrow1{
+	margin-top:10px;
+}
+.texthead{
+	text-align: right;
+	margin-right: -10px;
+	width: 120px;
+}
+.redline{
+	height:30px;
+	margin-left: 80px;
+    margin-right: auto; 
+}
+.img{
+	width:820px;
+}
+#contentCentre2{ 
+	height: 115px;
+	width: auto;
+	text-align:center
+}
+.row6{
+	height: 45px;
+	width: auto;
+}
+.row7{
+	height: 35px;
+	width: auto;
+}
+.row8{
+	height: 35px;
+	width: auto;
+}
+
+.row10{
+	height: 20px;
+	width: auto;
+	margin-left: 160px;
+    margin-right: auto; 
+}
+
+.show{
+	margin-left: 180px;
+    margin-right: auto; 
+	height:150px;
+	width:650px;
+    border:1px solid #c0c0c0; 
+    overflow-y:auto; 
+    padding-bottom:10px;
+}

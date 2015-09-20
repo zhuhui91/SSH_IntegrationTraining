@@ -1,0 +1,9 @@
+mvn clean
+mvn compile
+mvn tomcat:run
+http://localhost:8080/ShengdiSOMS/index.jsp
+数据库名称：shengdisoms
+数据库登录名：root
+数据库登录密码:""
+(登录密码为空)
+版本说明：价格表配置模块的(初步的新增和查询功能) + 价格表管理模块(EXCEL表的导入和导出、查询功能)
